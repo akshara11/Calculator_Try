@@ -1,0 +1,42 @@
+.first, .second{
+    float: left;
+    width: 50%;
+    margin: 5% 0% 0% 25%;
+    padding: 3% 0% 3% 0%;
+    background-color: blanchedalmond;
+    text-align: center;
+    color: black;
+}
+
+.first h1{
+    margin: 0% 0% 0% 0%;
+    text-align: center;
+    color: black;
+}
+
+.first input{
+    float: left;
+    width: 22%;
+    margin: 5% 0% 0% 8%;
+    padding: 2% 0% 2% 0%;
+    text-align: center;
+    color: black;
+}
+
+.first select{
+    float: left;
+    width: 22%;
+    margin: 5% 0% 0% 8%;
+    padding: 2% 0% 2% 0%;
+    text-align: center;
+    color: black;
+}
+
+.first button{
+    float: left;
+    width: 20%;
+    margin: 5% 0% 0% 40%;
+    padding: 2% 0% 2% 0%;
+    text-align: center;
+    color: black;
+}
